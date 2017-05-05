@@ -7,7 +7,7 @@ import java.time.LocalTime;
 public class DateTime {
 
 	public static void main(String[] args) {
-		  //Data e hora atual
+		  //Data e hora atuais
 	      LocalDateTime horaLocal = LocalDateTime.now();
 	      System.out.println("Data e Hora: " + horaLocal);
 	      //Data atual
@@ -15,10 +15,7 @@ public class DateTime {
 	      System.out.println("Data: " + data);
 	      //Hora atual
 	      LocalTime hora = LocalTime.now();
-	      System.out.println("Hora: " + hora);
-	      
-	      
-	     
+	      System.out.println("Hora: " + hora);	     
 	}
 }
 

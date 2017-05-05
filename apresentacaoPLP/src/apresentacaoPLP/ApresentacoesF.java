@@ -11,7 +11,7 @@ public class ApresentacoesF {
 	private static Apresentacoes[] apresentacoes = {
 			new Apresentacoes("Grupo 1 - Java Funcional", LocalDate.of(2017, Month.MAY, 4),
 			new BigDecimal(2)),
-			new Apresentacoes("Grupo 2 - Java Funcional", LocalDate.of(2017, Month.MAY, 4),
+			new Apresentacoes("Grupo 2 - Java Funcional", LocalDate.of(2017, Month.MAY, 5),
 			new BigDecimal(2)),
 			
 			new Apresentacoes("Grupo 1 - JavaScript Funcional", LocalDate.of(2017, Month.MAY, 5),
